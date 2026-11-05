@@ -36,13 +36,29 @@ TODO
 
 TODO
 
+TODO: Baseline. Moderately mana-sensitive. Can do magic, though many never bother to learn spellcasting. Some natural variation: some people are slightly more or less mana-sensitive.
+
 ## Elves
 
 TODO
 
+TODO: Extremely mana-sensitive. Exposure to even ambient mana concentrations causes acute mana toxicity.
+
+TODO: To avoid mana toxicity, consciously maintain an exclusion field, holding mana a few inches away from the body. Meditate, rather than sleep, to maintain the exclusion field. Unconsciousness lets the field collapse, and is nigh-invariably lethal. Children remain within a parent's exclusion field until they learn to make their own.
+
+TODO: High mana sensitivity, and universal training in mana manipulation to form an exclusion field, means all elves use simple spellcasting as an ordinary part of day-to-day life. However, the need to hold the shapes of the spells at a distance limits the upper end of elvish spell-power: the most powerful elves spells are weaker than the most powerful human spells.
+
+TODO: Live in forests, where the trees absorb some of the mana, and high in treetops, where altitude makes mana less dense.
+
 ## Dwarfs
 
 TODO
+
+TODO: Entirely insensitive to mana. Cannot perform spellcasting in any way, but also entirely immune to mana toxicity.
+
+TODO: Live deep underground, where high mana concentrations make life dangerous for other species.
+
+TODO: Living at depth, with high ambient mana and easy access to gemstones, makes magic items easier to use. Immunity to mana toxicity  allows crafting and using magic items in ways that would be lethal to other species.
 
 # Spellcasting
 
@@ -52,6 +68,12 @@ TODO
 
 TODO
 
+TODO: External spellcasting is normal: the spell is formed outside the body. Safe, but manipulating mana at a distance limits power.
+
+TODO: Internal spellcasting is a dangerous alternative: the spell is formed within the caster's body. Proximity allows control over a far greater amount of mana, making it far more powerful. But very dangerous, due to mana toxicity.
+
+TODO: Humans can do both. Elves never do internal spellcasting: it is nigh-invariably lethal to them.
+
 # Substances & Mana
 
 TODO
@@ -60,29 +82,55 @@ TODO
 
 TODO
 
+TODO: Conduct mana very well. Thus, difficult to affect with magic, as it tends to flow away rather than holding the shape of the spell.
+
+TODO: If specially crafted, can be used to channel mana into the correct shapes, aming it useful for magic items.
+
+TODO: Dangerous to elves, as it pierces their exclusion field.
+
 ### Iron
 
 TODO
+
+TODO: The most mana-conductive of metals.
+
+TODO: *Very* dangerous to elves.
+
+TODO: Can be aligned to conduct mana most easily in certain directions. This is the basis of manaforging.
 
 ## Gemstones
 
 TODO
 
+TODO: Absorbs and stores mana. Accrues high densitities of mana while underground, making them useful power sources for magic items.
+
+TODO: Holds mana in its shape. Makes it easier to affect with spells, and useful for magic items. Can be used as an aid with spellcasting, in a way that overlaps with channelling magic items.
+
 ## Living Matter
 
 TODO
+
+TODO: Resists mana incursion, making it harder to affect with magic. Absorbs mana (as it is poisioned by it), though only very slightly.
+
+TODO: Thus elves live in forests, as the mana concentration there is lower.
 
 ## Dead Matter
 
 TODO
 
+TODO: Slightly resists mana incursion—an adaptation left over from when it was alive. Thus, slightly harder to affect with magic.
+
 ## Stone, Air & Water
 
 TODO
 
+TODO: Magically inert. No harder or easier to affect with magic.
+
 ## Fire
 
-TODO?
+TODO
+
+TODO: Don't know. Maybe do something interesting here?
 
 # Enchanting
 
@@ -96,13 +144,19 @@ TODO
 
 TODO
 
+TODO: Commonly used by humans and dwarfs. Inconvenient for elves, as it stops working in their exclusion fields, but viable for non-personal items.
+
 ### Channelled
 
 TODO
 
+TODO: Commonly used by humans. Just about the only method used by elves. Impossible for dwarfs, due to total mana insensitivity.
+
 ### Charged
 
 TODO
+
+TODO: Most commonly used by dwarfs, due to risks of mana toxicity. Viable for humans. Very dangerous for elves.
 
 ## Crafting Methods
 
@@ -112,10 +166,22 @@ TODO
 
 TODO
 
+TODO: Most commonly used by elves and humans, as they can use magic to cut gemstones in ways that are difficult to do with manual tools.
+
+TODO: Dwarfs still cut gems, but usually as power sources for items where the actual spell is formed in a different way.
+
 ### Inlay & Filigree
 
 TODO
 
+TODO: Metal is shaped into the physical form of the spell, and mana pumped through it to power it.
+
+TODO: Usually uses metals other than iron, as the physical proporties of iron simply don't lend themselves to filigree.
+
 ### Manaforging
 
 TODO
+
+TODO: Internal channels of iron are formed into certain shapes through massive mana flows, while the iron is heated, then it is quenched to fix the shapes.
+
+TODO: Almost exclusively used by dwarfs, due to mana toxicity. Setting foot in a manaforging workshop is usually lethal to humans or elves.
