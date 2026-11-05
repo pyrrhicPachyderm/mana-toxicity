@@ -50,6 +50,8 @@ TODO: High mana sensitivity, and universal training in mana manipulation to form
 
 TODO: Live in forests, where the trees absorb some of the mana, and high in treetops, where altitude makes mana less dense.
 
+TODO: Excluding mana from their bodies for their whole lives makes elves nigh-immortal, as they do not suffer the same slow degredation due to chronic mana toxicity as other species do. They can still die of misadventure, and thus elves over a thousand years of age are rare, but they're not unheard of.
+
 ## Dwarfs
 
 TODO
@@ -59,6 +61,8 @@ TODO: Entirely insensitive to mana. Cannot perform spellcasting in any way, but 
 TODO: Live deep underground, where high mana concentrations make life dangerous for other species.
 
 TODO: Living at depth, with high ambient mana and easy access to gemstones, makes magic items easier to use. Immunity to mana toxicity  allows crafting and using magic items in ways that would be lethal to other species.
+
+TODO: Their nigh-total insensivity to mana means that dwarfs age only very slowly: it is common for them to live a signficant proportion of a millennium.
 
 # Spellcasting
 
