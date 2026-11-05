@@ -27,3 +27,95 @@ Curiously, the ease with which a person can affect the mana field seems to be re
 Physical substances can also affect the movement of the mana field.
 For example metals, especially iron, conduct mana, while gemstones tend to accumulate mana and hold it tightly in their lattices.
 This allows for the creation of magic items: items that use these properties to create the shapes of spells in the mana field, and thus create magical effects.
+
+# The Species of the World
+
+TODO
+
+## Humans
+
+TODO
+
+## Elves
+
+TODO
+
+## Dwarfs
+
+TODO
+
+# Spellcasting
+
+TODO
+
+## Internal and External Spellcasting
+
+TODO
+
+# Substances & Mana
+
+TODO
+
+## Metals
+
+TODO
+
+### Iron
+
+TODO
+
+## Gemstones
+
+TODO
+
+## Living Matter
+
+TODO
+
+## Dead Matter
+
+TODO
+
+## Stone, Air & Water
+
+TODO
+
+## Fire
+
+TODO?
+
+# Enchanting
+
+TODO
+
+## Power Sources
+
+TODO
+
+### Ambient
+
+TODO
+
+### Channelled
+
+TODO
+
+### Charged
+
+TODO
+
+## Crafting Methods
+
+TODO
+
+### Gemcutting
+
+TODO
+
+### Inlay & Filigree
+
+TODO
+
+### Manaforging
+
+TODO
